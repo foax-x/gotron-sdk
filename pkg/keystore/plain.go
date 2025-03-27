@@ -23,7 +23,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
+	"github.com/foax_x/gotron-sdk/pkg/address"
 )
 
 type keyStorePlain struct {
