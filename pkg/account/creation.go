@@ -1,9 +1,9 @@
 package account
 
 import (
-	"github.com/foax_x/gotron-sdk/pkg/keys"
-	"github.com/foax_x/gotron-sdk/pkg/mnemonic"
-	"github.com/foax_x/gotron-sdk/pkg/store"
+	"github.com/foax-x/gotron-sdk/pkg/keys"
+	"github.com/foax-x/gotron-sdk/pkg/mnemonic"
+	"github.com/foax-x/gotron-sdk/pkg/store"
 )
 
 // Creation struct for account

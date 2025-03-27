@@ -6,7 +6,7 @@ package keystore
 import (
 	"fmt"
 
-	"github.com/foax_x/gotron-sdk/pkg/address"
+	"github.com/foax-x/gotron-sdk/pkg/address"
 )
 
 func RecoverPubkey(hash []byte, signature []byte) (address.Address, error) {

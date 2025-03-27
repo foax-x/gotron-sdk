@@ -7,7 +7,7 @@
 package api
 
 import (
-	core "github.com/foax_x/gotron-sdk/pkg/proto/core"
+	core "github.com/foax-x/gotron-sdk/pkg/proto/core"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

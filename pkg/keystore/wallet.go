@@ -20,7 +20,7 @@ import (
 	"bytes"
 
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/foax_x/gotron-sdk/pkg/proto/core"
+	"github.com/foax-x/gotron-sdk/pkg/proto/core"
 )
 
 // keystoreWallet implements the Wallet interface for the original

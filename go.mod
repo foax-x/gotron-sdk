@@ -1,4 +1,4 @@
-module github.com/foax_x/gotron-sdk
+module github.com/foax-x/gotron-sdk
 
 go 1.23.0
 

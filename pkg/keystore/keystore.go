@@ -35,8 +35,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/event"
-	"github.com/foax_x/gotron-sdk/pkg/address"
-	"github.com/foax_x/gotron-sdk/pkg/proto/core"
+	"github.com/foax-x/gotron-sdk/pkg/address"
+	"github.com/foax-x/gotron-sdk/pkg/proto/core"
 	"google.golang.org/protobuf/proto"
 )
 

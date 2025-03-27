@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/foax_x/gotron-sdk/pkg/address"
-	"github.com/foax_x/gotron-sdk/pkg/client/transaction"
-	"github.com/foax_x/gotron-sdk/pkg/common"
-	"github.com/foax_x/gotron-sdk/pkg/common/decimals"
-	"github.com/foax_x/gotron-sdk/pkg/keystore"
-	"github.com/foax_x/gotron-sdk/pkg/store"
+	"github.com/foax-x/gotron-sdk/pkg/address"
+	"github.com/foax-x/gotron-sdk/pkg/client/transaction"
+	"github.com/foax-x/gotron-sdk/pkg/common"
+	"github.com/foax-x/gotron-sdk/pkg/common/decimals"
+	"github.com/foax-x/gotron-sdk/pkg/keystore"
+	"github.com/foax-x/gotron-sdk/pkg/store"
 	"github.com/spf13/cobra"
 )
 

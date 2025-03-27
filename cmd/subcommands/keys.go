@@ -8,15 +8,15 @@ import (
 
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/fatih/color"
-	"github.com/foax_x/gotron-sdk/pkg/account"
-	"github.com/foax_x/gotron-sdk/pkg/address"
-	"github.com/foax_x/gotron-sdk/pkg/common"
-	c "github.com/foax_x/gotron-sdk/pkg/common"
+	"github.com/foax-x/gotron-sdk/pkg/account"
+	"github.com/foax-x/gotron-sdk/pkg/address"
+	"github.com/foax-x/gotron-sdk/pkg/common"
+	c "github.com/foax-x/gotron-sdk/pkg/common"
 	"golang.org/x/crypto/ssh/terminal"
 
-	"github.com/foax_x/gotron-sdk/pkg/ledger"
-	"github.com/foax_x/gotron-sdk/pkg/mnemonic"
-	"github.com/foax_x/gotron-sdk/pkg/store"
+	"github.com/foax-x/gotron-sdk/pkg/ledger"
+	"github.com/foax-x/gotron-sdk/pkg/mnemonic"
+	"github.com/foax-x/gotron-sdk/pkg/store"
 	"github.com/spf13/cobra"
 	"github.com/tyler-smith/go-bip39"
 )
