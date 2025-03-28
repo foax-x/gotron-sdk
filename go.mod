@@ -1,6 +1,6 @@
 module github.com/foax-x/gotron-sdk
 
-go 1.23.0
+go 1.24.1
 
 require (
 	github.com/araddon/dateparse v0.0.0-20200409225146-d820a6159ab1
